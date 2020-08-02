@@ -1,4 +1,4 @@
-# DailyProgrammerRedit
+# DailyProgrammerReddit
 Daily Programmer Challenges
 
 
